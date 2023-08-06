@@ -1,0 +1,1 @@
+This project is part of the Odin curriculum and will see me demonstrate basic understanding of HTML including the boilerplate text to open HTML pages with, using links, using elements such as headings and paragraphs, and using images.
