@@ -21,10 +21,16 @@ h2 {
 }
 
 li:hover {
-    color: blueviolet;
-    border: 3px dotted black;
+
 }
 
+button:hover {
+    color: blueviolet;
+    background-color: rgb(254, 183, 76);
+    border: 3px dotted black;    
+}
+
+button:
 p {
     color:rgb(45, 95, 97);
     font-family: sans-serif;
@@ -34,10 +40,18 @@ p {
 }
 
 li {
+    text-align: center;
+
+}
+
+button {
     background-color: navajowhite;
     padding: 10px;
-    margin: 10px;
-    text-align: center;
+    margin: auto;
+    width: 200px;
     height: 40px;
     border: 3px solid white;
+    display: block
+   
+    
 }
