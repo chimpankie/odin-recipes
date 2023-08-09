@@ -20,9 +20,6 @@ h2 {
     margin: auto;
 }
 
-li:hover {
-
-}
 
 button:hover {
     color: blueviolet;
@@ -30,7 +27,6 @@ button:hover {
     border: 3px dotted black;    
 }
 
-button:
 p {
     color:rgb(45, 95, 97);
     font-family: sans-serif;
